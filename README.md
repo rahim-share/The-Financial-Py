@@ -3,8 +3,7 @@ This is a mini project for week 13, demonstrating application of the ETL process
 
 Since the beginning of the millennium we have seen two recessions, the financial crash (2008) and the Covid-19 outbreak (2020). Both had a massive effect on the way we live and our economy, we are interested to compare how the two recessions have affected the housing prices and sales volume in the UK.
 
-https://assets.site-static.com/userFiles/2723/image/uploads/agent-1/Blog%20Post%20Pictures/market%20forecast.jpg![image](https://user-images.githubusercontent.com/93007493/152636344-91ee37db-6e0d-44fe-915b-3a45d6a96d76.png)
-
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/93007493/152636407-7832f529-c121-482d-9191-83cdcfe5d596.png">
 
 # The process
 
@@ -23,6 +22,9 @@ of Birmingham and West Midlands regions for an example comparison.
 
 Analysis shows that the 2008 recession affected the housing market more significantly. Over one year the sales volumes in Birmingham decreased by 87 sales and the average house price dropped by almost 10%. The recent COVID situation didn’t affect the housing market as much. Even though the data was available only for half a year 2021 and the recorded sales volume were smaller by 120 transactions, the price increased by over 8% comparing to year 2020. Overall, comparison between the time period of the first and second recession shows a steady increase in price, the difference comes up to 30% and the sales volume increased by 44 sales.  
 
+
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/93007493/152636384-77d66481-8bca-40a7-8c22-d660ff2fcc1e.png">
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/93007493/152636395-082b0227-7183-4b7c-95fc-afc0987c18ba.png">
 
 
 
