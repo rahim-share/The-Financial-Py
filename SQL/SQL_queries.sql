@@ -1,15 +1,9 @@
 --Creating housing2020 table
 CREATE TABLE housing2020 (
 	'LAD' VARCHAR,
-	'AreaCode' VARCHAR,
 	'CTY' VARCHAR,
-	'CTY_Code' VARCHAR,
-	'Rgn' VARCHAR,
 	'Rgn_Code' VARCHAR,
-	'lat' INT,
-	'long' INT,
 	'Date' VARCHAR,
-	'RegionName' VARCHAR,
 	'SalesVolume' INT,
 	'AveragePrice' INT
 );
@@ -19,15 +13,9 @@ SELECT * FROM housing2020;
 --Creating housing2008 table
 CREATE TABLE housing2008 (
 	'LAD' VARCHAR,
-	'AreaCode' VARCHAR,
 	'CTY' VARCHAR,
-	'CTY_Code' VARCHAR,
-	'Rgn' VARCHAR,
 	'Rgn_Code' VARCHAR,
-	'lat' INT,
-	'long' INT,
 	'Date' VARCHAR,
-	'RegionName' VARCHAR,
 	'SalesVolume' INT,
 	'AveragePrice' INT
 );
